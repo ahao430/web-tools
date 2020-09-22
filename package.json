@@ -1,0 +1,27 @@
+{
+  "name": "web-tools",
+  "version": "1.0.0",
+  "description": "网页工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahao430/web-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahao430/web-tools/issues"
+  },
+  "homepage": "https://github.com/ahao430/web-tools#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "eslint": "^7.9.0",
+    "eslint-config-standard": "^14.1.1",
+    "babel-eslint": "^10.1.0"
+  }
+}
